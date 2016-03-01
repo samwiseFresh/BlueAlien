@@ -13,7 +13,7 @@ import com.samwise.bluealien.R;
  */
 public class CardAdapter extends RecyclerView.Adapter {
 
-    private String[] cardArray =  {"zero", "one", "two", "three", "four"};
+    private String[] cardArray =  {"zerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozerozero", "one", "two", "three", "four"};
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
